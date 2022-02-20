@@ -17,7 +17,7 @@ I coded it in Visual Studio 2022 version, recommend running it there too.
 ## Installation
 
 ```bash
-  git clone https://github.com/lnir947/PiDay.git
+git clone https://github.com/lnir947/PiDay.git
 ```
 
 
