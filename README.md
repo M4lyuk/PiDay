@@ -27,6 +27,7 @@ git clone https://github.com/lnir947/PiDay.git
 
 ## To-do
 
-- Hints?
+- Hints
 - Retry after getting score
 - GUI
+- Bigger txt file
