@@ -2,11 +2,11 @@
 Remember as many digits as you can from Pai
 
 This is a simple CLI program I created for Pi Day ( 14 March, or 3.14 ).
-This game tests how many digits from Pi does the player knows, and at the end, he gets the score => how many digits he typed right.
+This game tests how many digits from Pi does the player know, and at the end, he gets the score => how many digits he typed right.
 
 ## Configure
 Before starting the game, the player should type the path of the txt file which contains the Pai.
-There's a default text file named "pi.txt", it contains 100,000 digits of Pai ( 3. + 100,000 ).
+There's a default text file named "pi.txt", it contains 100,000 digits of Pai ( 100,000 digits after "3." ).
 
 The player should also type the number of allowed fails ( starting from 1 ). 
 If he typed 3, he would be given 3 fails before ending the game and getting the score.
